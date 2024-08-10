@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "babel-node ./*.js",
+    "dev": "node",
     "lint": "eslint"
   },
   "keywords": [],
